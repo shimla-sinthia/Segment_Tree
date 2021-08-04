@@ -101,16 +101,16 @@ void solvetc(ll tt){
     ll ans = 0;
     for(int i = 1; i <= n; i++){
         for(auto a: st[i]){
-            //ashiq.update(a, 1);
+           
             arr[a]++;
             update(1, 1, n, a);
         }
         for(auto a: en[i]){
-            //ashiq.update(a, -1);
+   
             arr[a]--;
             update(1,1,n, a);
         }
-        //ans += ashiq.query(min(arr[i-1], n));
+        
         ans += query(1,1,n, 1, min(arr1[i-1], n));
     }
     cout << ans << endl;
