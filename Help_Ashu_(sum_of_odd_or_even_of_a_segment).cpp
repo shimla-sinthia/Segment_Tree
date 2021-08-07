@@ -1,8 +1,5 @@
-//https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1///Bismillah Hir Rehmanir Rahim
-
-
-
-
+//https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1
+///Bismillah Hir Rehmanir Rahim
 //Allah knows best
 //#include<bits/stdc++.h>
 #include <ext/pb_ds/detail/standard_policies.hpp>
