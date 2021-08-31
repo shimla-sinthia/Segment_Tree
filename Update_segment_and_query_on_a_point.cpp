@@ -1,3 +1,8 @@
+/*
+Given an array. Apply 2 types of query. 
+In type 1, update the range l to r with value, given l, r, value. 
+In type2, output the value of the index l. 
+*/
 //Bismillah Hir Rehmanir Rahim
 //Allah knows best
 #include<bits/stdc++.h>
